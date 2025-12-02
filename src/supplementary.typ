@@ -52,4 +52,4 @@ rights holders, and cover any supplementary charges.
 ]
 
 // Uncomment to include references for the supplementary material
-//#bibliography("test.bib")
+//#bibliography("sample.bib")

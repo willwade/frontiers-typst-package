@@ -197,7 +197,7 @@ figure.
 The datasets [generated/analyzed] for this study can be found in the [NAME OF
 REPOSITORY] [LINK].
 
-#bibliography("test.bib")
+#bibliography("sample.bib")
 
 #heading(numbering: none)[Figure captions]
 // Please upload figures individually when submitting the article. Use the
