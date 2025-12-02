@@ -1,6 +1,7 @@
 # Frontiers Typst Template
 
 Converted from the provided Frontiers LaTeX sample. The template includes cover metadata, abstract/keywords, numbered headings, figure/table placeholders, and bibliography hooks.
+Frontiers In: https://www.frontiersin.org/
 
 ## Quick start
 
