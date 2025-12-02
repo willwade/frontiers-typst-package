@@ -1,0 +1,11 @@
+[package]
+name = "frontiers-template"
+version = "0.1.0"
+entrypoint = "src/template.typ"
+authors = ["Will Wade <willwade@gmail.com>"]
+license = "MIT"
+description = "Frontiers article template converted from LaTeX."
+homepage = "https://frontiersin.org"
+
+[template]
+path = "src/template.typ"
