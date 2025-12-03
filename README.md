@@ -30,4 +30,3 @@ Then import in a project:
 - Figures reference `logo1.pdf`/`logo2.pdf` that ship with the original kit; swap with your own assets.
 - Citations expect a `sample.bib`-style bibliography; update the path or replace with your .bib file. Include a CSL in the same folder if you need a specific citation style and reference it via `style: "name.csl"`. `.bst` files from LaTeX are not used in Typst.
 - Supplementary material template: see `src/supplementary.typ` if you need the separate supplement PDF.
-- The manifest is filled with placeholder author info; adjust before publishing.
